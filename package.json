@@ -1,18 +1,55 @@
 {
-  "name": "react-native-wintec",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "@gerolomobr/react-native-wintec",
+  "_id": "@gerolomobr/react-native-wintec@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-p60OlA0EurRSdPx+aKoi7u7h0njRa3gb0qeA7b7jsjQLLRrJVsaDdjMCCXjymtsJw/BnwrlsbGfQceWkc6Sm7w==",
+  "_location": "/@gerolomobr/react-native-wintec",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@gerolomobr/react-native-wintec",
+    "name": "@gerolomobr/react-native-wintec",
+    "escapedName": "@gerolomobr%2freact-native-wintec",
+    "scope": "@gerolomobr",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@gerolomobr/react-native-wintec/-/react-native-wintec-1.0.0.tgz",
+  "_shasum": "57da8dec70ee8997c4447ff639c6018c32449529",
+  "_spec": "@gerolomobr/react-native-wintec",
+  "_where": "C:\\Users\\FelipeGerolomo\\Desktop\\Food\\YooFood",
+  "author": {
+    "name": "Felipe Gerolomo"
+  },
+  "bugs": {
+    "url": "https://github.com/FelipeGerolomo/react-wintek/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Getting started",
+  "homepage": "https://github.com/FelipeGerolomo/react-wintek#readme",
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@gerolomobr/react-native-wintec",
   "peerDependencies": {
     "react-native": "^0.41.2",
     "react-native-windows": "0.41.0-rc.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeGerolomo/react-wintek.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
 }

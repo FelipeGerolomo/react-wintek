@@ -31,6 +31,8 @@ repositories {
 }
 
 dependencies {
+    //compile fileTree(include: ['*.jar'], dir: 'Lib')
     compile 'com.facebook.react:react-native:+'
+    compile files('Lib/WTAndroidJar.jar')
 }
   
